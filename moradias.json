@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "6277134b3845283c0ee4e036",
+    "index": 0,
+    "moradia": "aliqua",
+    "endereco": "393 Rockaway Avenue, Waiohinu, Idaho, 3420",
+    "latitude": -86.800748,
+    "longitude": -27.714977,
+    "aluguel": "$1,235.62",
+    "tipoMoradia": "masculina",
+    "tipoAlojamento": "compartilhado por 2 ou mais pessoas",
+    "mobiliario": [
+      "Colchão"
+    ],
+    "tipoBanheiro": "privativo",
+    "area": 276,
+    "telefone": "(859) 586-2309",
+    "email": "deannagibson@pholio.com"
+  },
+  {
+    "_id": "6277134b574dbd8593aa8ea2",
+    "index": 1,
+    "moradia": "enim",
+    "endereco": "725 Seacoast Terrace, Ola, Maryland, 6328",
+    "latitude": 43.811817,
+    "longitude": -159.379133,
+    "aluguel": "$2,233.35",
+    "tipoMoradia": "masculina",
+    "tipoAlojamento": "individual",
+    "mobiliario": [
+      "Escorredor de louça",
+      "Mesa de Jantar",
+      "Espelho",
+      "Micro-ondas",
+      "Tábua e ferro de passar",
+      "Geladeira",
+      "Colchão",
+      "Fogão"
+    ],
+    "tipoBanheiro": "compartilhado",
+    "area": 127,
+    "telefone": "(849) 594-3207",
+    "email": "deannagibson@pholio.com"
+  },
+  {
+    "_id": "6277134b625f0388fae2207f",
+    "index": 2,
+    "moradia": "aliquip",
+    "endereco": "768 Schenck Place, Forbestown, New Mexico, 2514",
+    "latitude": -37.215205,
+    "longitude": -20.485597,
+    "aluguel": "$2,857.22",
+    "tipoMoradia": "feminina",
+    "tipoAlojamento": "compartilhado por 2 ou mais pessoas",
+    "mobiliario": [
+      "Geladeira",
+      "Escorredor de louça",
+      "Colchão",
+      "Espelho",
+      "Sofá",
+      "Mesa de Jantar"
+    ],
+    "tipoBanheiro": "privativo",
+    "area": 284,
+    "telefone": "(854) 416-3319",
+    "email": "deannagibson@pholio.com"
+  },
+  {
+    "_id": "6277134ba56be52297915b04",
+    "index": 3,
+    "moradia": "esse",
+    "endereco": "185 Huntington Street, Frystown, Guam, 9196",
+    "latitude": -59.482581,
+    "longitude": 45.338489,
+    "aluguel": "$1,249.26",
+    "tipoMoradia": "mista",
+    "tipoAlojamento": "individual",
+    "mobiliario": [
+      "Tábua e ferro de passar",
+      "Armário de cozinha",
+      "Geladeira",
+      "Varal",
+      "Cama",
+      "Colchão",
+      "Mesa",
+      "Sofá",
+      "Geladeira"
+    ],
+    "tipoBanheiro": "privativo",
+    "area": 82,
+    "telefone": "(985) 544-2459",
+    "email": "deannagibson@pholio.com"
+  },
+  {
+    "_id": "6277134be8ca72ee719c2d9e",
+    "index": 4,
+    "moradia": "incididunt",
+    "endereco": "484 Granite Street, Rivera, Puerto Rico, 6476",
+    "latitude": 5.737486,
+    "longitude": -135.602352,
+    "aluguel": "$1,065.63",
+    "tipoMoradia": "masculina",
+    "tipoAlojamento": "compartilhado por 2 ou mais pessoas",
+    "mobiliario": [
+      "Cama",
+      "Armário de cozinha",
+      "Fogão",
+      "Fogão"
+    ],
+    "tipoBanheiro": "privativo",
+    "area": 301,
+    "telefone": "(831) 587-3608",
+    "email": "deannagibson@pholio.com"
+  }
+]
