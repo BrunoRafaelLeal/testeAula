@@ -1,241 +1,253 @@
 [
   {
-    "_id": "627869d24dd5ac6905abb80e",
+    "_id": "62787106be90aead21c277fa",
     "index": 0,
-    "moradia": "qui",
-    "endereco": "798 Billings Place, Cresaptown, Alaska, 9902",
-    "latitude": 85.189614,
-    "longitude": 19.462217,
-    "aluguel": "$1,159.83",
+    "moradia": "Lorem",
+    "endereco": "534 Hemlock Street, Walton, Alaska, 7728",
+    "latitude": -79.652604,
+    "longitude": 101.178291,
+    "aluguel": "$1,887.47",
     "tipoMoradia": "masculina",
-    "tipoAlojamento": "individual",
-    "mobiliario": [
-      "Micro-ondas"
-    ],
-    "tipoBanheiro": "compartilhado",
-    "area": 300,
-    "imagensCasa": "https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg",
-    "areasComuns": [
-      "Piscina"
-    ],
-    "videoAreasComuns": [
-      "https://www.youtube.com/watch?v=Xa8uHouo_FI"
-    ],
-    "telefone": "(956) 519-3978",
-    "email": "rondahardy@qimonk.com",
-    "informacoesExtras": [
-      {
-        "regras": "Incididunt nostrud enim veniam consequat cillum nisi velit magna.",
-        "horarioVisitantes": "Das 6 horas até as 19 horas",
-        "permitePets": "Animais não são permitidos"
-      }
-    ]
-  },
-  {
-    "_id": "627869d27c8ca51e745ad13c",
-    "index": 1,
-    "moradia": "id",
-    "endereco": "250 Tompkins Avenue, Glenbrook, New York, 4535",
-    "latitude": 81.679502,
-    "longitude": 77.442592,
-    "aluguel": "$2,818.53",
-    "tipoMoradia": "mista",
     "tipoAlojamento": "compartilhado por 2 ou mais pessoas",
     "mobiliario": [
-      "Espelho",
-      "Sofá",
-      "Colchão",
+      "Geladeira",
       "Escorredor de louça",
-      "TV",
-      "Cama",
-      "Micro-ondas",
+      "Geladeira",
       "Varal",
-      "Mesa",
-      "Armário de cozinha"
-    ],
-    "tipoBanheiro": "privativo",
-    "area": 522,
-    "imagensCasa": "https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg",
-    "areasComuns": [
-      "Piscina",
-      "Espaço Gourmet"
-    ],
-    "videoAreasComuns": [
-      "https://www.youtube.com/watch?v=Xa8uHouo_FI",
-      "https://www.youtube.com/watch?v=Xa8uHouo_FI",
-      "https://www.youtube.com/watch?v=v3DI0Mwn1Y0"
-    ],
-    "telefone": "(824) 567-3912",
-    "email": "rondahardy@qimonk.com",
-    "informacoesExtras": [
-      {
-        "regras": "Consectetur Lorem deserunt officia ipsum magna est est quis amet duis.",
-        "horarioVisitantes": "Das 12 horas até as 15 horas",
-        "permitePets": "Animais são permitidos"
-      }
-    ]
-  },
-  {
-    "_id": "627869d2927a2e04bbc5e0a7",
-    "index": 2,
-    "moradia": "laboris",
-    "endereco": "465 Roder Avenue, Churchill, Nevada, 5643",
-    "latitude": 35.088902,
-    "longitude": -101.842961,
-    "aluguel": "$1,700.20",
-    "tipoMoradia": "masculina",
-    "tipoAlojamento": "individual",
-    "mobiliario": [
-      "Escorredor de louça",
-      "Escorredor de louça",
-      "Geladeira",
-      "Colchão",
-      "TV",
-      "Micro-ondas",
-      "Escorredor de louça"
-    ],
-    "tipoBanheiro": "privativo",
-    "area": 86,
-    "imagensCasa": "https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg",
-    "areasComuns": [
-      "Cozinha",
-      "Área de lazer"
-    ],
-    "videoAreasComuns": [
-      "https://www.youtube.com/watch?v=v3DI0Mwn1Y0",
-      "https://www.youtube.com/watch?v=Xa8uHouo_FI"
-    ],
-    "telefone": "(878) 402-2146",
-    "email": "rondahardy@qimonk.com",
-    "informacoesExtras": [
-      {
-        "regras": "Ipsum mollit eu amet esse ex qui irure.",
-        "horarioVisitantes": "Das 6 horas até as 21 horas",
-        "permitePets": "Animais são permitidos"
-      }
-    ]
-  },
-  {
-    "_id": "627869d2daaf30e1788e63f9",
-    "index": 3,
-    "moradia": "magna",
-    "endereco": "960 Oxford Street, Newkirk, Georgia, 3096",
-    "latitude": 53.087964,
-    "longitude": 79.400907,
-    "aluguel": "$2,667.84",
-    "tipoMoradia": "masculina",
-    "tipoAlojamento": "individual",
-    "mobiliario": [
-      "Tábua e ferro de passar",
-      "Geladeira",
-      "TV",
-      "Escorredor de louça",
-      "Tábua e ferro de passar",
-      "Geladeira",
-      "Máquina de lavar",
+      "Guarda-roupa",
       "Sofá",
-      "Geladeira"
+      "Cama",
+      "Mesa",
+      "Tábua e ferro de passar"
     ],
     "tipoBanheiro": "privativo",
-    "area": 367,
-    "imagensCasa": "https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg",
+    "area": 846,
+    "imagensCasa": [
+      "https://images.unsplash.com/photo-1503594384566-461fe158e797?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTI0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTI0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1508330570239-ce7cabceee22?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDU0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500"
+    ],
     "areasComuns": [
       "Praça",
-      "Área de lazer",
-      "Sala de Jogos",
-      "Cozinha"
+      "Praça",
+      "Piscina",
+      "Praça"
     ],
     "videoAreasComuns": [
-      "https://www.youtube.com/watch?v=v3DI0Mwn1Y0",
-      "https://www.youtube.com/watch?v=12boKvlRGTI"
+      "https://www.youtube.com/watch?v=v3DI0Mwn1Y0"
     ],
-    "telefone": "(840) 401-3050",
+    "telefone": "(868) 585-3833",
     "email": "rondahardy@qimonk.com",
     "informacoesExtras": [
       {
-        "regras": "Magna aliqua adipisicing fugiat aute nostrud irure deserunt ea reprehenderit consectetur ad elit esse Lorem.",
-        "horarioVisitantes": "Das 6 horas até as 14 horas",
+        "regras": "Proident minim enim commodo ipsum reprehenderit pariatur officia dolor fugiat ad mollit amet.",
+        "horarioVisitantes": "Das 10 horas até as 18 horas",
         "permitePets": "Animais não são permitidos"
       }
     ]
   },
   {
-    "_id": "627869d229cf35ae3b490788",
-    "index": 4,
-    "moradia": "deserunt",
-    "endereco": "501 Delevan Street, Davenport, Illinois, 7977",
-    "latitude": 29.784109,
-    "longitude": 57.754045,
-    "aluguel": "$2,623.05",
+    "_id": "62787106eb8ae31fef13ab3b",
+    "index": 1,
+    "moradia": "ea",
+    "endereco": "782 Llama Court, Fairacres, Massachusetts, 6348",
+    "latitude": -71.421359,
+    "longitude": 90.434753,
+    "aluguel": "$3,685.00",
     "tipoMoradia": "feminina",
     "tipoAlojamento": "compartilhado por 2 ou mais pessoas",
     "mobiliario": [
       "Geladeira",
+      "Mesa",
+      "Máquina de lavar",
+      "Sofá",
       "Escorredor de louça",
-      "Guarda-roupa",
+      "Espelho",
+      "Micro-ondas",
+      "Armário de cozinha",
       "Tábua e ferro de passar",
-      "Guarda-roupa",
       "Colchão"
     ],
-    "tipoBanheiro": "privativo",
-    "area": 332,
-    "imagensCasa": "https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg",
+    "tipoBanheiro": "compartilhado",
+    "area": 663,
+    "imagensCasa": [
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1623298317883-6b70254edf31?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1573544209644-4e154f09671c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDEz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500"
+    ],
     "areasComuns": [
-      "Praça"
+      "Piscina",
+      "Piscina",
+      "Área de lazer",
+      "Área de lazer"
     ],
     "videoAreasComuns": [
-      "https://www.youtube.com/watch?v=12boKvlRGTI",
-      "https://www.youtube.com/watch?v=12boKvlRGTI",
+      "https://www.youtube.com/watch?v=Xa8uHouo_FI",
       "https://www.youtube.com/watch?v=Xa8uHouo_FI"
     ],
-    "telefone": "(961) 457-2620",
+    "telefone": "(938) 487-3396",
     "email": "rondahardy@qimonk.com",
     "informacoesExtras": [
       {
-        "regras": "Pariatur et voluptate do irure sit ullamco veniam.",
-        "horarioVisitantes": "Das 6 horas até as 19 horas",
+        "regras": "Qui nisi excepteur cupidatat minim qui.",
+        "horarioVisitantes": "Das 10 horas até as 22 horas",
         "permitePets": "Animais não são permitidos"
       }
     ]
   },
   {
-    "_id": "627869d275a69f338c38d419",
-    "index": 5,
-    "moradia": "consectetur",
-    "endereco": "630 Brevoort Place, Bowden, Washington, 1235",
-    "latitude": -74.176779,
-    "longitude": 33.786202,
-    "aluguel": "$3,664.70",
-    "tipoMoradia": "masculina",
-    "tipoAlojamento": "compartilhado por 2 ou mais pessoas",
+    "_id": "62787106fbbe0fa3e9c4a05f",
+    "index": 2,
+    "moradia": "esse",
+    "endereco": "197 Clinton Avenue, Shaft, North Carolina, 1591",
+    "latitude": -27.630522,
+    "longitude": 157.164641,
+    "aluguel": "$2,006.40",
+    "tipoMoradia": "feminina",
+    "tipoAlojamento": "individual",
     "mobiliario": [
-      "Sofá",
-      "Micro-ondas",
-      "Sofá",
-      "Geladeira",
-      "Micro-ondas",
-      "Colchão",
+      "Fogão",
+      "Mesa",
       "Espelho",
-      "Tábua e ferro de passar",
-      "Tábua e ferro de passar"
+      "Micro-ondas",
+      "Geladeira",
+      "Sofá",
+      "Máquina de lavar",
+      "Mesa de Jantar",
+      "Máquina de lavar",
+      "Máquina de lavar"
     ],
     "tipoBanheiro": "compartilhado",
-    "area": 280,
-    "imagensCasa": "https://img.olhardigital.com.br/wp-content/uploads/2018/09/20180903133856-860x450.jpg",
+    "area": 550,
+    "imagensCasa": [
+      "https://images.unsplash.com/photo-1508330570239-ce7cabceee22?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDU0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDQ5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1589129140837-67287c22521b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTM5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1623298317883-6b70254edf31?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1586982599726-11708daaceca?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDU3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1614846384571-1e31322ed3a9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTY2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1589129140837-67287c22521b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTM5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1508330570239-ce7cabceee22?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDU0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500"
+    ],
     "areasComuns": [
-      "Cozinha",
-      "Praça",
+      "Espaço Gourmet",
+      "Área de lazer",
+      "Espaço Gourmet",
+      "Sala de Jogos",
       "Espaço Gourmet"
     ],
     "videoAreasComuns": [
       "https://www.youtube.com/watch?v=Xa8uHouo_FI"
     ],
-    "telefone": "(859) 519-2677",
+    "telefone": "(886) 482-2664",
     "email": "rondahardy@qimonk.com",
     "informacoesExtras": [
       {
-        "regras": "Quis ullamco fugiat cillum sint enim.",
-        "horarioVisitantes": "Das 8 horas até as 21 horas",
+        "regras": "Id occaecat duis aute laboris nisi laboris ea non officia veniam duis.",
+        "horarioVisitantes": "Das 7 horas até as 20 horas",
+        "permitePets": "Animais não são permitidos"
+      }
+    ]
+  },
+  {
+    "_id": "62787106ca5e0bceee2e9e4c",
+    "index": 3,
+    "moradia": "fugiat",
+    "endereco": "285 Lester Court, Eagletown, Minnesota, 8633",
+    "latitude": -88.00062,
+    "longitude": 143.746715,
+    "aluguel": "$3,669.57",
+    "tipoMoradia": "feminina",
+    "tipoAlojamento": "individual",
+    "mobiliario": [
+      "Mesa",
+      "Colchão",
+      "Colchão",
+      "Tábua e ferro de passar",
+      "Varal",
+      "Geladeira",
+      "Colchão",
+      "Colchão",
+      "Escorredor de louça"
+    ],
+    "tipoBanheiro": "privativo",
+    "area": 845,
+    "imagensCasa": [
+      "https://images.unsplash.com/photo-1503594384566-461fe158e797?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1614846384571-1e31322ed3a9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTY2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDQ5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDUx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1586982599726-11708daaceca?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDU3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500",
+      "https://images.unsplash.com/photo-1602836948295-14b195efa63d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMTY5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500"
+    ],
+    "areasComuns": [
+      "Área de lazer",
+      "Praça",
+      "Piscina",
+      "Área de lazer",
+      "Lavanderia"
+    ],
+    "videoAreasComuns": [
+      "https://www.youtube.com/watch?v=v3DI0Mwn1Y0",
+      "https://www.youtube.com/watch?v=12boKvlRGTI",
+      "https://www.youtube.com/watch?v=Xa8uHouo_FI"
+    ],
+    "telefone": "(962) 407-3162",
+    "email": "rondahardy@qimonk.com",
+    "informacoesExtras": [
+      {
+        "regras": "Fugiat sint mollit aute laborum.",
+        "horarioVisitantes": "Das 11 horas até as 21 horas",
+        "permitePets": "Animais são permitidos"
+      }
+    ]
+  },
+  {
+    "_id": "62787106937f1b0fc3c2d752",
+    "index": 4,
+    "moradia": "laboris",
+    "endereco": "428 Norman Avenue, Grapeview, Maryland, 3458",
+    "latitude": 18.311024,
+    "longitude": 135.233939,
+    "aluguel": "$2,257.55",
+    "tipoMoradia": "feminina",
+    "tipoAlojamento": "individual",
+    "mobiliario": [
+      "Máquina de lavar roupas",
+      "Espelho",
+      "Mesa",
+      "Mesa de Jantar",
+      "Varal",
+      "Espelho",
+      "TV",
+      "Geladeira"
+    ],
+    "tipoBanheiro": "compartilhado",
+    "area": 625,
+    "imagensCasa": [
+      "https://images.unsplash.com/photo-1503594384566-461fe158e797?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjUyMDQwMDYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=500"
+    ],
+    "areasComuns": [
+      "Espaço Gourmet",
+      "Cozinha",
+      "Cozinha",
+      "Piscina"
+    ],
+    "videoAreasComuns": [
+      "https://www.youtube.com/watch?v=v3DI0Mwn1Y0"
+    ],
+    "telefone": "(948) 570-2492",
+    "email": "rondahardy@qimonk.com",
+    "informacoesExtras": [
+      {
+        "regras": "Ut labore do officia non esse ut sit voluptate ut ea qui eu aliquip incididunt.",
+        "horarioVisitantes": "Das 10 horas até as 14 horas",
         "permitePets": "Animais são permitidos"
       }
     ]
